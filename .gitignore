@@ -1,2 +1,6 @@
 ./client/node_module/
 ./server/node_module/
+/server/node_module
+/client/node_module
+server/node_module
+client/node_module
